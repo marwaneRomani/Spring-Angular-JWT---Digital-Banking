@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/marwaneRomani/digital-Banking-angular.git
+[submodule "server"]
+	path = server
+	url = https://github.com/marwaneRomani/digital-banking-spring-boot.git
